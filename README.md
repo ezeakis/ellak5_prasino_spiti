@@ -10,4 +10,4 @@
 
 Το έργο πραγματοποιήθκε με Scratch, οπότε δεν προέκυψε κόστος
 
-Είναι διαθέσιμο στον συγκεκριμένο σύνδεσμο https://scratch.mit.edu/projects/843248720/ αλλά 
+Είναι διαθέσιμο στον συγκεκριμένο σύνδεσμο https://scratch.mit.edu/projects/843248720/ αλλά μπορείτε να το βρείτε και σε αυτό το αποθετήριο στον σύνδεσμο https://github.com/ezeakis/ellak5_prasino_spiti/blob/main/Green%20House.sb3 
